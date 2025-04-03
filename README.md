@@ -30,7 +30,7 @@ To run this notebook, you will need the following:
 2. **Navigate to the Working Directory**: Ensure you're in the correct directory where your files and models are stored.
 
    ```python
-   %cd /content/drive/MyDrive/AI_VIETNAM/AIO2023/Module 09/[Exercise]-Probabilistic-Diffusion-Models
+   %cd /content/drive/MyDrive/Diffusion-Models
    ```
 
 ## Steps for Inpainting
